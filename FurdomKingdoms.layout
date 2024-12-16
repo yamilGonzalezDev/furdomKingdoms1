@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="src\animations.hpp" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="329" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\enemy.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4545" topLine="67" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="132" />
+			<Collapse line="209" />
+			<Collapse line="211" />
+			<Collapse line="217" />
+			<Collapse line="230" />
+			<Collapse line="279" />
+			<Collapse line="283" />
+			<Collapse line="284" />
+			<Collapse line="294" />
+			<Collapse line="295" />
+			<Collapse line="308" />
+			<Collapse line="309" />
+			<Collapse line="350" />
+			<Collapse line="355" />
+			<Collapse line="365" />
+			<Collapse line="368" />
+			<Collapse line="374" />
+			<Collapse line="376" />
+			<Collapse line="385" />
+			<Collapse line="387" />
+			<Collapse line="393" />
+			<Collapse line="395" />
+			<Collapse line="401" />
+			<Collapse line="406" />
+			<Collapse line="412" />
+			<Collapse line="414" />
+			<Collapse line="420" />
+			<Collapse line="433" />
+			<Collapse line="482" />
+			<Collapse line="486" />
+			<Collapse line="487" />
+			<Collapse line="497" />
+			<Collapse line="498" />
+			<Collapse line="515" />
+			<Collapse line="516" />
+			<Collapse line="557" />
+			<Collapse line="562" />
+			<Collapse line="572" />
+			<Collapse line="575" />
+			<Collapse line="581" />
+			<Collapse line="583" />
+			<Collapse line="592" />
+			<Collapse line="594" />
+			<Collapse line="600" />
+			<Collapse line="602" />
+			<Collapse line="608" />
+			<Collapse line="613" />
+			<Collapse line="620" />
+			<Collapse line="622" />
+			<Collapse line="628" />
+		</Folding>
+	</File>
+	<File name="src\princess.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="110" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\texts.cpp" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1038" topLine="25" />
+		</Cursor>
+	</File>
+	<File name="src\player.hpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="140" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="21" />
+			<Collapse line="62" />
+		</Folding>
+	</File>
+	<File name="src\limits.cpp" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2133" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="68" />
+			<Collapse line="73" />
+			<Collapse line="78" />
+		</Folding>
+	</File>
+	<File name="src\observer.hpp" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="151" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\npc.cpp" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="19" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\limits.hpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1014" topLine="4" />
+		</Cursor>
+		<Folding>
+			<Collapse line="19" />
+			<Collapse line="25" />
+			<Collapse line="31" />
+			<Collapse line="37" />
+			<Collapse line="44" />
+			<Collapse line="51" />
+		</Folding>
+	</File>
+	<File name="src\director.hpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1961" topLine="64" />
+		</Cursor>
+	</File>
+	<File name="src\colisions.hpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="126" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\sceneState.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="68" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\scene.hpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7072" topLine="6" />
+		</Cursor>
+		<Folding>
+			<Collapse line="14" />
+			<Collapse line="43" />
+			<Collapse line="63" />
+			<Collapse line="86" />
+			<Collapse line="130" />
+			<Collapse line="157" />
+			<Collapse line="177" />
+		</Folding>
+	</File>
+	<File name="src\director.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1895" topLine="42" />
+		</Cursor>
+		<Folding>
+			<Collapse line="239" />
+			<Collapse line="255" />
+			<Collapse line="289" />
+			<Collapse line="326" />
+			<Collapse line="368" />
+			<Collapse line="493" />
+			<Collapse line="601" />
+			<Collapse line="626" />
+			<Collapse line="749" />
+			<Collapse line="770" />
+			<Collapse line="788" />
+			<Collapse line="802" />
+		</Folding>
+	</File>
+	<File name="src\player.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4113" topLine="21" />
+		</Cursor>
+		<Folding>
+			<Collapse line="9" />
+			<Collapse line="33" />
+			<Collapse line="40" />
+			<Collapse line="67" />
+			<Collapse line="133" />
+			<Collapse line="172" />
+			<Collapse line="333" />
+		</Folding>
+	</File>
+	<File name="src\texts.hpp" open="0" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="86" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\enemy.hpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="260" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="134" />
+			<Collapse line="149" />
+			<Collapse line="157" />
+		</Folding>
+	</File>
+	<File name="src\entity.cpp" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="182" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\entity.hpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="766" topLine="13" />
+		</Cursor>
+	</File>
+	<File name="src\princess.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1153" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\npc.hpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2735" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="src\main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\fooDraw.hpp" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1004" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="src\witch.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="436" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Witch.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="45" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\colisions.cpp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7033" topLine="186" />
+		</Cursor>
+		<Folding>
+			<Collapse line="202" />
+			<Collapse line="224" />
+		</Folding>
+	</File>
+	<File name="src\scene.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17515" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="50" />
+			<Collapse line="85" />
+			<Collapse line="104" />
+			<Collapse line="109" />
+			<Collapse line="118" />
+			<Collapse line="125" />
+			<Collapse line="196" />
+			<Collapse line="213" />
+			<Collapse line="218" />
+			<Collapse line="232" />
+			<Collapse line="242" />
+			<Collapse line="247" />
+			<Collapse line="254" />
+			<Collapse line="328" />
+			<Collapse line="340" />
+			<Collapse line="345" />
+			<Collapse line="363" />
+			<Collapse line="370" />
+			<Collapse line="381" />
+			<Collapse line="386" />
+			<Collapse line="393" />
+			<Collapse line="468" />
+			<Collapse line="480" />
+			<Collapse line="485" />
+			<Collapse line="502" />
+			<Collapse line="511" />
+			<Collapse line="519" />
+			<Collapse line="524" />
+			<Collapse line="531" />
+			<Collapse line="560" />
+			<Collapse line="572" />
+			<Collapse line="577" />
+			<Collapse line="590" />
+			<Collapse line="595" />
+			<Collapse line="600" />
+			<Collapse line="605" />
+			<Collapse line="612" />
+			<Collapse line="623" />
+			<Collapse line="630" />
+			<Collapse line="635" />
+			<Collapse line="642" />
+			<Collapse line="649" />
+			<Collapse line="654" />
+			<Collapse line="661" />
+			<Collapse line="672" />
+			<Collapse line="679" />
+			<Collapse line="684" />
+			<Collapse line="692" />
+			<Collapse line="697" />
+			<Collapse line="702" />
+			<Collapse line="707" />
+			<Collapse line="716" />
+			<Collapse line="720" />
+			<Collapse line="725" />
+			<Collapse line="737" />
+			<Collapse line="754" />
+			<Collapse line="759" />
+			<Collapse line="764" />
+			<Collapse line="769" />
+			<Collapse line="774" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
